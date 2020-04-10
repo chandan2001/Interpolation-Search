@@ -37,9 +37,7 @@ def interpolationSearch(arr, n, x):
 
 # Driver Code 
 # Array of items on which search will be conducted 
-ar = [10, 12, 13, 16, 18, 19, 20, 21, 22, 23, 24, 33, 35, 42, 47] 
-
-arr=[3,6,9,11,15,17,21,26,27,30,31,36,38,45]
+arr = [10, 12, 13, 16, 18, 19, 20, 21, 22, 23, 24, 33, 35, 42, 47]
 print(arr)
 n = len(arr)
 print("size of array = " + str(n))
